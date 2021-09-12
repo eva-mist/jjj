@@ -35,5 +35,5 @@ Users should be able to:
 ## Author
 
 - Website - [Etulan Opoto](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@eva_mistyy](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@eva-mist](https://www.frontendmentor.io/profile/eva-mist)
+- Twitter - [@eva_mistyy](https://www.twitter.com/eva-mist)
